@@ -44,11 +44,10 @@ Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedora Fro
 
 Aqui estão alguns projetos que representam minha evolução:
 
-🔹 [Fetch GitHub API](https://aline-mmiranda.github.io/project-fetch-github-api/) → Consumo de API e async JS  
-🔹 [Conversor de Moedas](https://aline-mmiranda.github.io/currency-converter/) → Lógica JS e manipulação de valores  
-🔹 [Verificador de Idade](https://aline-mmiranda.github.io/verificador-de-idade/) → DOM e condições  
-🔹 [Tabuada](https://aline-mmiranda.github.io/tabuada/) → Lógica e interação  
-🔹 [Huddle Landing Page](https://aline-mmiranda.github.io/huddle-landing-page/) → Responsividade  
+🔹 [sortea](https://aline-mmiranda.github.io/sortea/)
+🔹 [Jokenpô](https://aline-mmiranda.github.io/jokenpo/)
+🔹 [CSS Gerador](https://aline-mmiranda.github.io/css-gerador/) 
+🔹 [Fetch GitHub API](https://aline-mmiranda.github.io/project-fetch-github-api/)
 
 ---
 
