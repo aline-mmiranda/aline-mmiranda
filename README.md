@@ -42,13 +42,6 @@ Busca de usuários na API pública do GitHub com exibição de dados de perfil e
 
 ---
 
-## 📊 GitHub Stats
-
-![Aline's GitHub stats](https://github-readme-stats.vercel.app/api?username=aline-mmiranda&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aline-mmiranda&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aline%20M%20Miranda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aline-mmiranda/)
